@@ -9,4 +9,4 @@ if adivinanza == numero_secreto:
     print("¡Felicidades! Adivinaste el número.")
 else:
     print(f"Lo siento, has perdido. El número era {numero_secreto}.")
-    22
+    3
